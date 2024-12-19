@@ -1,9 +1,11 @@
 # 🐣 안녕하세요 프론트엔드 개발자 최서윤입니다. 🐣
 
+## MY GIT ANIMALS
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{heyimcsy}"/>
 </a>
 
+## MY INFO
 
 ## MY SKILLS
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
@@ -17,6 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,postman,yarn,npm)](https://skillicons.dev)
 
 
+## MY STATUS
 ![heyimcsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyimcsy&show_icons=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyimcsy&layout=compact)
 
