@@ -1,8 +1,16 @@
-# Hi, I am a frontend developer who has always enjoyed developing myself a lot! 🐣
+# 안녕하세요 발전을 즐기는 프론트엔드 개발자 최서윤입니다. 🐣
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{heyimcsy}"/>
 </a>
+
+## MY SKILLS
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,next.js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=threejs,ts,styledcomponents)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
 <!--
