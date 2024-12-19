@@ -7,11 +7,12 @@
 ## MY SKILLS
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,vue,next.js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=threejs,ts,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=threejs,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents,sass,materialui)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
+## I used to with these
+[![My Skills](https://skillicons.dev/icons?i=docker,postman,yarn,npm)](https://skillicons.dev)
 
 <!--
 **heyimcsy/heyimcsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
