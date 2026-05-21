@@ -21,9 +21,6 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,postman,yarn,npm)](https://skillicons.dev)
 
 
-## MY STATUS
-[![GitHub Streak](https://streak-stats.demolab.com/?user=heyimcsy)](https://git.io/streak-stats)
-
 <!--
 **heyimcsy/heyimcsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
