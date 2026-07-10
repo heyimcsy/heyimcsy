@@ -56,7 +56,7 @@ React · TypeScript · Three.js · Canvas
 -------
 [![My Skills](https://skillicons.dev/icons?i=threejs,ts,jest)](https://skillicons.dev)
 -------
-[![My Skills](https://skillicons.dev/icons?i=styledcomponents,sass,materialui,tailwind, shadcn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents,sass,materialui,tailwind)](https://skillicons.dev)
 -------
 [![My Skills](https://skillicons.dev/icons?i=docker,postman,yarn,npm)](https://skillicons.dev)
 
